@@ -1,0 +1,16 @@
+D:\niversity\7sem\pic\pic7\obj\Debug\net5.0\pic7.csproj.AssemblyReference.cache
+D:\niversity\7sem\pic\pic7\obj\Debug\net5.0\pic7.GeneratedMSBuildEditorConfig.editorconfig
+D:\niversity\7sem\pic\pic7\obj\Debug\net5.0\pic7.AssemblyInfoInputs.cache
+D:\niversity\7sem\pic\pic7\obj\Debug\net5.0\pic7.AssemblyInfo.cs
+D:\niversity\7sem\pic\pic7\obj\Debug\net5.0\pic7.csproj.CoreCompileInputs.cache
+D:\niversity\7sem\pic\pic7\bin\Debug\net5.0\pic7.exe
+D:\niversity\7sem\pic\pic7\bin\Debug\net5.0\pic7.deps.json
+D:\niversity\7sem\pic\pic7\bin\Debug\net5.0\pic7.runtimeconfig.json
+D:\niversity\7sem\pic\pic7\bin\Debug\net5.0\pic7.runtimeconfig.dev.json
+D:\niversity\7sem\pic\pic7\bin\Debug\net5.0\pic7.dll
+D:\niversity\7sem\pic\pic7\bin\Debug\net5.0\ref\pic7.dll
+D:\niversity\7sem\pic\pic7\bin\Debug\net5.0\pic7.pdb
+D:\niversity\7sem\pic\pic7\obj\Debug\net5.0\pic7.dll
+D:\niversity\7sem\pic\pic7\obj\Debug\net5.0\ref\pic7.dll
+D:\niversity\7sem\pic\pic7\obj\Debug\net5.0\pic7.pdb
+D:\niversity\7sem\pic\pic7\obj\Debug\net5.0\pic7.genruntimeconfig.cache

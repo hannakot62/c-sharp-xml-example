@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <card>
+    <number>1234567891</number>
+    <bonuses>3</bonuses>
+  </card>
+  <card>
+    <number>2222222222</number>
+    <bonuses>53368</bonuses>
+  </card>
+  <card>
+    <number>9874567342</number>
+    <bonuses>1</bonuses>
+  </card>
+  <card>
+    <number>1111111111</number>
+    <bonuses>0</bonuses>
+  </card>
+  <card>
+    <number>8888888888</number>
+    <bonuses>0</bonuses>
+  </card>
+</cards>
